@@ -2,7 +2,7 @@ body{
   background: #ccc /* Sets the background color of the body */
 }
 .header{
-  background-image: url(images/sunset.png);/* Sets the background image of the header */
+  background-image: url(Just me/images/sunset.png);/* Sets the background image of the header */
   background_size:cover;/* Makes sure the background image covers the entire header */
   background-position:center;/* Centers the background image */
   height: 150px;/* Sets the height of the header */
