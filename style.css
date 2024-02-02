@@ -21,7 +21,7 @@ h3{/* Sets all properties within h3 elements */
 img{/* Sets all properties within img elements */
   
   width: 30%;/* Sets the width of images to 30% of their container */
-  border: 15px #b4b4b4 solid;/* Sets a solid border and color around images */
+  border: 1px solid #ccc; /* Border style for all images */
 }
 footer{/* Sets all properties within footer elements */
   text-align: center;/* Centers the text within the footer */
